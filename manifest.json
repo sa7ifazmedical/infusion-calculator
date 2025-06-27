@@ -1,8 +1,11 @@
 {
   "name": "حاسبة تسريب الدواء",
   "short_name": "حاسبة تسريب",
+  "description": "تطبيق حاسبة لتحديد سرعة تسريب الدواء بطريقة سهلة واحترافية.",
+  "id": "/",
   "start_url": "./index.html",
   "display": "standalone",
+  "orientation": "portrait",
   "background_color": "#a8edea",
   "theme_color": "#0072ff",
   "icons": [
